@@ -35,6 +35,13 @@ body {
   align-self: center;
 }
 
+.texto2{
+  flex: 1;
+  padding-right: 20px;
+  padding-left: 2em;
+  align-self: center;
+}
+
 .texto h2 {
   line-height: 2em;
   margin-bottom: 1em;
@@ -43,7 +50,7 @@ body {
 
 .texto p {
   line-height: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   font-size: 18px;
 }
 
